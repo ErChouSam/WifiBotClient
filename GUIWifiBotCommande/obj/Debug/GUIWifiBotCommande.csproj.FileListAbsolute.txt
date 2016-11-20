@@ -1,0 +1,13 @@
+c:\users\erchousam\documents\visual studio 2012\Projects\WifiBot\WifiBotClient\GUIWifiBotCommande\bin\Debug\GUIWifiBotCommande.exe.config
+C:\Users\ErChouSam\documents\visual studio 2012\Projects\WifiBot\WifiBotClient\GUIWifiBotCommande\bin\Debug\GUIWifiBotCommande.exe
+C:\Users\ErChouSam\documents\visual studio 2012\Projects\WifiBot\WifiBotClient\GUIWifiBotCommande\bin\Debug\GUIWifiBotCommande.pdb
+C:\Users\ErChouSam\documents\visual studio 2012\Projects\WifiBot\WifiBotClient\GUIWifiBotCommande\obj\Debug\GUIWifiBotCommande.csprojResolveAssemblyReference.cache
+C:\Users\ErChouSam\documents\visual studio 2012\Projects\WifiBot\WifiBotClient\GUIWifiBotCommande\obj\Debug\GUIWifiBotCommande.Properties.Resources.resources
+C:\Users\ErChouSam\documents\visual studio 2012\Projects\WifiBot\WifiBotClient\GUIWifiBotCommande\obj\Debug\GUIWifiBotCommande.csproj.GenerateResource.Cache
+C:\Users\ErChouSam\documents\visual studio 2012\Projects\WifiBot\WifiBotClient\GUIWifiBotCommande\obj\Debug\GUIWifiBotCommande.exe
+C:\Users\ErChouSam\documents\visual studio 2012\Projects\WifiBot\WifiBotClient\GUIWifiBotCommande\obj\Debug\GUIWifiBotCommande.pdb
+C:\Users\ErChouSam\Documents\Visual Studio 2012\Projects\WifiBot\WifiBotClient\GUIWifiBotCommande\obj\Debug\GUIWifiBotCommande.Connection.resources
+C:\Users\ErChouSam\Documents\Visual Studio 2012\Projects\WifiBot\WifiBotClient\GUIWifiBotCommande\obj\Debug\GUIWifiBotCommande.GUICommande.resources
+C:\Users\ErChouSam\Documents\Visual Studio 2012\Projects\WifiBot\WifiBotClient\GUIWifiBotCommande\bin\Debug\ProgBar.dll
+C:\Users\ErChouSam\Documents\Visual Studio 2012\Projects\WifiBot\WifiBotClient\GUIWifiBotCommande\bin\Debug\ProgBar.pdb
+C:\Users\ErChouSam\Documents\Visual Studio 2012\Projects\WifiBot\WifiBotClient\GUIWifiBotCommande\bin\Debug\ProgBar.xml

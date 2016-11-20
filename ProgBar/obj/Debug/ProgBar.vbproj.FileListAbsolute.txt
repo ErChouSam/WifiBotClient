@@ -1,0 +1,12 @@
+C:\Users\ErChouSam\Documents\Visual Studio 2012\Projects\WifiBot\WifiBotClient\ProgBar\bin\Debug\ProgBar.dll
+C:\Users\ErChouSam\Documents\Visual Studio 2012\Projects\WifiBot\WifiBotClient\ProgBar\bin\Debug\ProgBar.pdb
+C:\Users\ErChouSam\Documents\Visual Studio 2012\Projects\WifiBot\WifiBotClient\ProgBar\bin\Debug\ProgBar.xml
+C:\Users\ErChouSam\Documents\Visual Studio 2012\Projects\WifiBot\WifiBotClient\ProgBar\obj\Debug\ProgBar.Resources.resources
+C:\Users\ErChouSam\Documents\Visual Studio 2012\Projects\WifiBot\WifiBotClient\ProgBar\obj\Debug\ProgBar.ProgBarPlus.resources
+C:\Users\ErChouSam\Documents\Visual Studio 2012\Projects\WifiBot\WifiBotClient\ProgBar\obj\Debug\ProgBar.dlgCorners.resources
+C:\Users\ErChouSam\Documents\Visual Studio 2012\Projects\WifiBot\WifiBotClient\ProgBar\obj\Debug\ProgBar.dlgFocalPoints.resources
+C:\Users\ErChouSam\Documents\Visual Studio 2012\Projects\WifiBot\WifiBotClient\ProgBar\obj\Debug\ProgBar.DropdownColorBlender.resources
+C:\Users\ErChouSam\Documents\Visual Studio 2012\Projects\WifiBot\WifiBotClient\ProgBar\obj\Debug\ProgBar.vbproj.GenerateResource.Cache
+C:\Users\ErChouSam\Documents\Visual Studio 2012\Projects\WifiBot\WifiBotClient\ProgBar\obj\Debug\ProgBar.dll
+C:\Users\ErChouSam\Documents\Visual Studio 2012\Projects\WifiBot\WifiBotClient\ProgBar\obj\Debug\ProgBar.xml
+C:\Users\ErChouSam\Documents\Visual Studio 2012\Projects\WifiBot\WifiBotClient\ProgBar\obj\Debug\ProgBar.pdb

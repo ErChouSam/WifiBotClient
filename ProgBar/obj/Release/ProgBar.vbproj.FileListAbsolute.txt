@@ -1,0 +1,12 @@
+D:\Téléchargement\ProgBarPlus\ProgBar\bin\Release\ProgBar.dll
+D:\Téléchargement\ProgBarPlus\ProgBar\bin\Release\ProgBar.pdb
+D:\Téléchargement\ProgBarPlus\ProgBar\bin\Release\ProgBar.xml
+D:\Téléchargement\ProgBarPlus\ProgBar\obj\Release\ProgBar.Resources.resources
+D:\Téléchargement\ProgBarPlus\ProgBar\obj\Release\ProgBar.ProgBarPlus.resources
+D:\Téléchargement\ProgBarPlus\ProgBar\obj\Release\ProgBar.dlgCorners.resources
+D:\Téléchargement\ProgBarPlus\ProgBar\obj\Release\ProgBar.dlgFocalPoints.resources
+D:\Téléchargement\ProgBarPlus\ProgBar\obj\Release\ProgBar.DropdownColorBlender.resources
+D:\Téléchargement\ProgBarPlus\ProgBar\obj\Release\ProgBar.vbproj.GenerateResource.Cache
+D:\Téléchargement\ProgBarPlus\ProgBar\obj\Release\ProgBar.dll
+D:\Téléchargement\ProgBarPlus\ProgBar\obj\Release\ProgBar.xml
+D:\Téléchargement\ProgBarPlus\ProgBar\obj\Release\ProgBar.pdb
