@@ -15,22 +15,8 @@ namespace GUIWifiBotCommande
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
-            try
-            {
-                //TcpClient SockTCP = new TcpClient(textBoxIpAdress.Text, int.Parse(textBoxPort.Text));
-              //  SockTCP.Close();
-                Main.SetIpAddressPort(textBoxIpAdress.Text, int.Parse(textBoxPort.Text));
-                this.Close();
-            }
-            catch (ArgumentNullException f)
-            {
-                MessageBox.Show("Connexion impossible " + "ArgumentNullException: {0}" + f, "Erreur", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
-            catch (SocketException f)
-            {
-                MessageBox.Show("Connexion impossible " + "SocketException: {0}" + f, "Erreur", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
+            Main.SetIpAddressPort(textBoxIpAdress.Text, int.Parse(textBoxPort.Text));
+            this.Close();
         }
     }
 }

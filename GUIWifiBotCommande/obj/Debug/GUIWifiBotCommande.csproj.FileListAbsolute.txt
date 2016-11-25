@@ -11,3 +11,47 @@ C:\Users\ErChouSam\Documents\Visual Studio 2012\Projects\WifiBot\WifiBotClient\G
 C:\Users\ErChouSam\Documents\Visual Studio 2012\Projects\WifiBot\WifiBotClient\GUIWifiBotCommande\bin\Debug\ProgBar.dll
 C:\Users\ErChouSam\Documents\Visual Studio 2012\Projects\WifiBot\WifiBotClient\GUIWifiBotCommande\bin\Debug\ProgBar.pdb
 C:\Users\ErChouSam\Documents\Visual Studio 2012\Projects\WifiBot\WifiBotClient\GUIWifiBotCommande\bin\Debug\ProgBar.xml
+C:\Users\C.Nao\Desktop\Fichier Samy\WifiBotClient-master\GUIWifiBotCommande\bin\Debug\GUIWifiBotCommande.exe.config
+C:\Users\C.Nao\Desktop\Fichier Samy\WifiBotClient-master\GUIWifiBotCommande\obj\Debug\GUIWifiBotCommande.exe
+C:\Users\C.Nao\Desktop\Fichier Samy\WifiBotClient-master\GUIWifiBotCommande\obj\Debug\GUIWifiBotCommande.pdb
+C:\Users\C.Nao\Desktop\Fichier Samy\WifiBotClient-master\GUIWifiBotCommande\bin\Debug\GUIWifiBotCommande.exe
+C:\Users\C.Nao\Desktop\Fichier Samy\WifiBotClient-master\GUIWifiBotCommande\bin\Debug\GUIWifiBotCommande.pdb
+C:\Users\C.Nao\Desktop\Fichier Samy\WifiBotClient-master\GUIWifiBotCommande\bin\Debug\ProgBar.dll
+C:\Users\C.Nao\Desktop\Fichier Samy\WifiBotClient-master\GUIWifiBotCommande\bin\Debug\ProgBar.pdb
+C:\Users\C.Nao\Desktop\Fichier Samy\WifiBotClient-master\GUIWifiBotCommande\bin\Debug\ProgBar.xml
+C:\Users\C.Nao\Desktop\Fichier Samy\WifiBotClient-master\GUIWifiBotCommande\obj\Debug\GUIWifiBotCommande.csprojResolveAssemblyReference.cache
+C:\Users\C.Nao\Desktop\Fichier Samy\WifiBotClient-master\GUIWifiBotCommande\obj\Debug\GUIWifiBotCommande.Connection.resources
+C:\Users\C.Nao\Desktop\Fichier Samy\WifiBotClient-master\GUIWifiBotCommande\obj\Debug\GUIWifiBotCommande.GUICommande.resources
+C:\Users\C.Nao\Desktop\Fichier Samy\WifiBotClient-master\GUIWifiBotCommande\obj\Debug\GUIWifiBotCommande.Properties.Resources.resources
+C:\Users\C.Nao\Desktop\Fichier Samy\WifiBotClient-master\GUIWifiBotCommande\obj\Debug\GUIWifiBotCommande.csproj.GenerateResource.Cache
+\\Serveur2012\sn2017\S.Yousfi\Code projet COOOOOOOMENTE WIFIBOT\WifiBotClient-master\GUIWifiBotCommande\bin\Debug\GUIWifiBotCommande.exe.config
+\\Serveur2012\sn2017\S.Yousfi\Code projet COOOOOOOMENTE WIFIBOT\WifiBotClient-master\GUIWifiBotCommande\obj\Debug\GUIWifiBotCommande.exe
+\\Serveur2012\sn2017\S.Yousfi\Code projet COOOOOOOMENTE WIFIBOT\WifiBotClient-master\GUIWifiBotCommande\obj\Debug\GUIWifiBotCommande.pdb
+\\Serveur2012\sn2017\S.Yousfi\Code projet COOOOOOOMENTE WIFIBOT\WifiBotClient-master\GUIWifiBotCommande\obj\Debug\GUIWifiBotCommande.csprojResolveAssemblyReference.cache
+\\Serveur2012\sn2017\S.Yousfi\Code projet COOOOOOOMENTE WIFIBOT\WifiBotClient-master\GUIWifiBotCommande\obj\Debug\GUIWifiBotCommande.Connection.resources
+\\Serveur2012\sn2017\S.Yousfi\Code projet COOOOOOOMENTE WIFIBOT\WifiBotClient-master\GUIWifiBotCommande\obj\Debug\GUIWifiBotCommande.GUICommande.resources
+\\Serveur2012\sn2017\S.Yousfi\Code projet COOOOOOOMENTE WIFIBOT\WifiBotClient-master\GUIWifiBotCommande\obj\Debug\GUIWifiBotCommande.Properties.Resources.resources
+\\Serveur2012\sn2017\S.Yousfi\Code projet COOOOOOOMENTE WIFIBOT\WifiBotClient-master\GUIWifiBotCommande\obj\Debug\GUIWifiBotCommande.csproj.GenerateResource.Cache
+\\Serveur2012\sn2017\S.Yousfi\Code projet COOOOOOOMENTE WIFIBOT\WifiBotClient-master\GUIWifiBotCommande\bin\Debug\GUIWifiBotCommande.exe
+\\Serveur2012\sn2017\S.Yousfi\Code projet COOOOOOOMENTE WIFIBOT\WifiBotClient-master\GUIWifiBotCommande\bin\Debug\GUIWifiBotCommande.pdb
+\\Serveur2012\sn2017\S.Yousfi\Code projet COOOOOOOMENTE WIFIBOT\WifiBotClient-master\GUIWifiBotCommande\bin\Debug\ProgBar.dll
+\\Serveur2012\sn2017\S.Yousfi\Code projet COOOOOOOMENTE WIFIBOT\WifiBotClient-master\GUIWifiBotCommande\bin\Debug\ProgBar.pdb
+\\Serveur2012\sn2017\S.Yousfi\Code projet COOOOOOOMENTE WIFIBOT\WifiBotClient-master\GUIWifiBotCommande\bin\Debug\ProgBar.xml
+C:\Users\C.Nao\Desktop\Fichier Samy\WifiBotClient-master\GUIWifiBotCommande\obj\Debug\Interop.WIA.dll
+C:\Users\C.Nao\Desktop\Fichier Samy\WifiBotClient-master\GUIWifiBotCommande\obj\Debug\Interop.WIAVIDEOLib.dll
+C:\Users\C.Nao\Desktop\Fichier Samy\WifiBotClient-master\GUIWifiBotCommande\obj\Debug\GUIWifiBotCommande.csproj.ResolveComReference.cache
+D:\Programmation\C#\WifiBot\WifiBotClient\WifiBotClient\GUIWifiBotCommande\bin\Debug\GUIWifiBotCommande.exe.config
+D:\Programmation\C#\WifiBot\WifiBotClient\WifiBotClient\GUIWifiBotCommande\obj\Debug\Interop.WIA.dll
+D:\Programmation\C#\WifiBot\WifiBotClient\WifiBotClient\GUIWifiBotCommande\obj\Debug\GUIWifiBotCommande.csproj.ResolveComReference.cache
+D:\Programmation\C#\WifiBot\WifiBotClient\WifiBotClient\GUIWifiBotCommande\obj\Debug\GUIWifiBotCommande.exe
+D:\Programmation\C#\WifiBot\WifiBotClient\WifiBotClient\GUIWifiBotCommande\obj\Debug\GUIWifiBotCommande.pdb
+D:\Programmation\C#\WifiBot\WifiBotClient\WifiBotClient\GUIWifiBotCommande\bin\Debug\GUIWifiBotCommande.exe
+D:\Programmation\C#\WifiBot\WifiBotClient\WifiBotClient\GUIWifiBotCommande\bin\Debug\GUIWifiBotCommande.pdb
+D:\Programmation\C#\WifiBot\WifiBotClient\WifiBotClient\GUIWifiBotCommande\bin\Debug\ProgBar.dll
+D:\Programmation\C#\WifiBot\WifiBotClient\WifiBotClient\GUIWifiBotCommande\bin\Debug\ProgBar.pdb
+D:\Programmation\C#\WifiBot\WifiBotClient\WifiBotClient\GUIWifiBotCommande\bin\Debug\ProgBar.xml
+D:\Programmation\C#\WifiBot\WifiBotClient\WifiBotClient\GUIWifiBotCommande\obj\Debug\GUIWifiBotCommande.csprojResolveAssemblyReference.cache
+D:\Programmation\C#\WifiBot\WifiBotClient\WifiBotClient\GUIWifiBotCommande\obj\Debug\GUIWifiBotCommande.Connection.resources
+D:\Programmation\C#\WifiBot\WifiBotClient\WifiBotClient\GUIWifiBotCommande\obj\Debug\GUIWifiBotCommande.GUICommande.resources
+D:\Programmation\C#\WifiBot\WifiBotClient\WifiBotClient\GUIWifiBotCommande\obj\Debug\GUIWifiBotCommande.Properties.Resources.resources
+D:\Programmation\C#\WifiBot\WifiBotClient\WifiBotClient\GUIWifiBotCommande\obj\Debug\GUIWifiBotCommande.csproj.GenerateResource.Cache
