@@ -28,15 +28,15 @@
         /// </summary>
         private void InitializeComponent()
         {
-            ProgBar.cBlendItems cBlendItems13 = new ProgBar.cBlendItems();
-            ProgBar.cFocalPoints cFocalPoints13 = new ProgBar.cFocalPoints();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(GUICommande));
-            ProgBar.cBlendItems cBlendItems14 = new ProgBar.cBlendItems();
-            ProgBar.cFocalPoints cFocalPoints14 = new ProgBar.cFocalPoints();
-            ProgBar.cBlendItems cBlendItems15 = new ProgBar.cBlendItems();
-            ProgBar.cFocalPoints cFocalPoints15 = new ProgBar.cFocalPoints();
-            ProgBar.cBlendItems cBlendItems16 = new ProgBar.cBlendItems();
-            ProgBar.cFocalPoints cFocalPoints16 = new ProgBar.cFocalPoints();
+            ProgBar.cBlendItems cBlendItems5 = new ProgBar.cBlendItems();
+            ProgBar.cFocalPoints cFocalPoints5 = new ProgBar.cFocalPoints();
+            ProgBar.cBlendItems cBlendItems6 = new ProgBar.cBlendItems();
+            ProgBar.cFocalPoints cFocalPoints6 = new ProgBar.cFocalPoints();
+            ProgBar.cBlendItems cBlendItems7 = new ProgBar.cBlendItems();
+            ProgBar.cFocalPoints cFocalPoints7 = new ProgBar.cFocalPoints();
+            ProgBar.cBlendItems cBlendItems8 = new ProgBar.cBlendItems();
+            ProgBar.cFocalPoints cFocalPoints8 = new ProgBar.cFocalPoints();
             this.label1 = new System.Windows.Forms.Label();
             this.RightWheels = new System.Windows.Forms.Label();
             this.numericUpDownLeft = new System.Windows.Forms.NumericUpDown();
@@ -75,35 +75,23 @@
             // 
             // label1
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(32, 43);
+            resources.ApplyResources(this.label1, "label1");
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(155, 25);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Roues Gauche";
             // 
             // RightWheels
             // 
-            this.RightWheels.AutoSize = true;
-            this.RightWheels.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.RightWheels.Location = new System.Drawing.Point(274, 43);
+            resources.ApplyResources(this.RightWheels, "RightWheels");
             this.RightWheels.Name = "RightWheels";
-            this.RightWheels.Size = new System.Drawing.Size(137, 25);
-            this.RightWheels.TabIndex = 1;
-            this.RightWheels.Text = "Roues Droite";
             // 
             // numericUpDownLeft
             // 
-            this.numericUpDownLeft.Location = new System.Drawing.Point(37, 81);
+            resources.ApplyResources(this.numericUpDownLeft, "numericUpDownLeft");
             this.numericUpDownLeft.Maximum = new decimal(new int[] {
             255,
             0,
             0,
             0});
             this.numericUpDownLeft.Name = "numericUpDownLeft";
-            this.numericUpDownLeft.Size = new System.Drawing.Size(120, 20);
-            this.numericUpDownLeft.TabIndex = 2;
             this.numericUpDownLeft.Value = new decimal(new int[] {
             50,
             0,
@@ -113,15 +101,13 @@
             // 
             // numericUpDownRight
             // 
-            this.numericUpDownRight.Location = new System.Drawing.Point(279, 81);
+            resources.ApplyResources(this.numericUpDownRight, "numericUpDownRight");
             this.numericUpDownRight.Maximum = new decimal(new int[] {
             255,
             0,
             0,
             0});
             this.numericUpDownRight.Name = "numericUpDownRight";
-            this.numericUpDownRight.Size = new System.Drawing.Size(120, 20);
-            this.numericUpDownRight.TabIndex = 3;
             this.numericUpDownRight.Value = new decimal(new int[] {
             50,
             0,
@@ -131,92 +117,77 @@
             // 
             // progressBarLeft
             // 
-            this.progressBarLeft.Location = new System.Drawing.Point(37, 119);
+            resources.ApplyResources(this.progressBarLeft, "progressBarLeft");
             this.progressBarLeft.Name = "progressBarLeft";
-            this.progressBarLeft.Size = new System.Drawing.Size(120, 23);
-            this.progressBarLeft.TabIndex = 4;
             // 
             // progressBarRight
             // 
-            this.progressBarRight.Location = new System.Drawing.Point(279, 119);
+            resources.ApplyResources(this.progressBarRight, "progressBarRight");
             this.progressBarRight.Name = "progressBarRight";
-            this.progressBarRight.Size = new System.Drawing.Size(120, 23);
-            this.progressBarRight.TabIndex = 5;
             // 
             // statusStrip1
             // 
+            resources.ApplyResources(this.statusStrip1, "statusStrip1");
             this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.toolStripStatusLabel1});
-            this.statusStrip1.Location = new System.Drawing.Point(0, 553);
             this.statusStrip1.Name = "statusStrip1";
-            this.statusStrip1.Size = new System.Drawing.Size(455, 22);
-            this.statusStrip1.TabIndex = 10;
-            this.statusStrip1.Text = "statusStrip1";
             // 
             // toolStripStatusLabel1
             // 
+            resources.ApplyResources(this.toolStripStatusLabel1, "toolStripStatusLabel1");
             this.toolStripStatusLabel1.ForeColor = System.Drawing.Color.Red;
             this.toolStripStatusLabel1.Name = "toolStripStatusLabel1";
-            this.toolStripStatusLabel1.Size = new System.Drawing.Size(118, 17);
-            this.toolStripStatusLabel1.Text = "toolStripStatusLabel1";
             // 
             // menuStrip1
             // 
+            resources.ApplyResources(this.menuStrip1, "menuStrip1");
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.menuToolStripMenuItem,
             this.quitterToolStripMenuItem});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(455, 24);
-            this.menuStrip1.TabIndex = 11;
-            this.menuStrip1.Text = "menuStrip1";
             // 
             // menuToolStripMenuItem
             // 
+            resources.ApplyResources(this.menuToolStripMenuItem, "menuToolStripMenuItem");
             this.menuToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.connectionToolStripMenuItem,
             this.cameraViewToolStripMenuItem,
             this.aboutToolStripMenuItem});
             this.menuToolStripMenuItem.Name = "menuToolStripMenuItem";
-            this.menuToolStripMenuItem.Size = new System.Drawing.Size(50, 20);
-            this.menuToolStripMenuItem.Text = "Menu";
             // 
             // connectionToolStripMenuItem
             // 
+            resources.ApplyResources(this.connectionToolStripMenuItem, "connectionToolStripMenuItem");
             this.connectionToolStripMenuItem.Name = "connectionToolStripMenuItem";
-            this.connectionToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.connectionToolStripMenuItem.Text = "Connection";
             this.connectionToolStripMenuItem.Click += new System.EventHandler(this.connectionToolStripMenuItem_Click);
             // 
             // cameraViewToolStripMenuItem
             // 
+            resources.ApplyResources(this.cameraViewToolStripMenuItem, "cameraViewToolStripMenuItem");
             this.cameraViewToolStripMenuItem.Name = "cameraViewToolStripMenuItem";
-            this.cameraViewToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.cameraViewToolStripMenuItem.Text = "Camera View";
             this.cameraViewToolStripMenuItem.Click += new System.EventHandler(this.cameraViewToolStripMenuItem_Click);
             // 
             // aboutToolStripMenuItem
             // 
+            resources.ApplyResources(this.aboutToolStripMenuItem, "aboutToolStripMenuItem");
             this.aboutToolStripMenuItem.Name = "aboutToolStripMenuItem";
-            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.aboutToolStripMenuItem.Text = "About";
             // 
             // quitterToolStripMenuItem
             // 
+            resources.ApplyResources(this.quitterToolStripMenuItem, "quitterToolStripMenuItem");
             this.quitterToolStripMenuItem.Name = "quitterToolStripMenuItem";
-            this.quitterToolStripMenuItem.Size = new System.Drawing.Size(56, 20);
-            this.quitterToolStripMenuItem.Text = "Quitter";
             this.quitterToolStripMenuItem.Click += new System.EventHandler(this.quitterToolStripMenuItem_Click);
             // 
             // progBarIRFrontLeft
             // 
-            cBlendItems13.iColor = new System.Drawing.Color[] {
+            resources.ApplyResources(this.progBarIRFrontLeft, "progBarIRFrontLeft");
+            cBlendItems5.iColor = new System.Drawing.Color[] {
         System.Drawing.Color.Navy,
         System.Drawing.Color.Blue};
-            cBlendItems13.iPoint = new float[] {
+            cBlendItems5.iPoint = new float[] {
         0F,
         1F};
-            this.progBarIRFrontLeft.BarColorBlend = cBlendItems13;
+            this.progBarIRFrontLeft.BarColorBlend = cBlendItems5;
             this.progBarIRFrontLeft.BarColorSolid = System.Drawing.Color.Green;
             this.progBarIRFrontLeft.BarColorSolidB = System.Drawing.Color.White;
             this.progBarIRFrontLeft.BarLengthValue = ((short)(25));
@@ -232,28 +203,26 @@
             this.progBarIRFrontLeft.Corners.UpperRight = ((short)(0));
             this.progBarIRFrontLeft.CylonInterval = ((short)(1));
             this.progBarIRFrontLeft.CylonMove = 5F;
-            cFocalPoints13.CenterPoint = ((System.Drawing.PointF)(resources.GetObject("cFocalPoints13.CenterPoint")));
-            cFocalPoints13.FocusScales = ((System.Drawing.PointF)(resources.GetObject("cFocalPoints13.FocusScales")));
-            this.progBarIRFrontLeft.FocalPoints = cFocalPoints13;
-            this.progBarIRFrontLeft.Location = new System.Drawing.Point(61, 319);
+            cFocalPoints5.CenterPoint = ((System.Drawing.PointF)(resources.GetObject("cFocalPoints5.CenterPoint")));
+            cFocalPoints5.FocusScales = ((System.Drawing.PointF)(resources.GetObject("cFocalPoints5.FocusScales")));
+            this.progBarIRFrontLeft.FocalPoints = cFocalPoints5;
             this.progBarIRFrontLeft.Max = 255;
             this.progBarIRFrontLeft.Name = "progBarIRFrontLeft";
             this.progBarIRFrontLeft.Orientation = ProgBar.ProgBarPlus.eOrientation.Vertical;
             this.progBarIRFrontLeft.Shape = ProgBar.ProgBarPlus.eShape.TriangleDown;
             this.progBarIRFrontLeft.ShapeTextFont = new System.Drawing.Font("Arial Black", 30F);
-            this.progBarIRFrontLeft.Size = new System.Drawing.Size(151, 67);
-            this.progBarIRFrontLeft.TabIndex = 9;
             this.progBarIRFrontLeft.Value = 50;
             // 
             // progBarIRFrontRight
             // 
-            cBlendItems14.iColor = new System.Drawing.Color[] {
+            resources.ApplyResources(this.progBarIRFrontRight, "progBarIRFrontRight");
+            cBlendItems6.iColor = new System.Drawing.Color[] {
         System.Drawing.Color.Navy,
         System.Drawing.Color.Blue};
-            cBlendItems14.iPoint = new float[] {
+            cBlendItems6.iPoint = new float[] {
         0F,
         1F};
-            this.progBarIRFrontRight.BarColorBlend = cBlendItems14;
+            this.progBarIRFrontRight.BarColorBlend = cBlendItems6;
             this.progBarIRFrontRight.BarColorSolid = System.Drawing.Color.Green;
             this.progBarIRFrontRight.BarColorSolidB = System.Drawing.Color.White;
             this.progBarIRFrontRight.BarLengthValue = ((short)(25));
@@ -269,28 +238,26 @@
             this.progBarIRFrontRight.Corners.UpperRight = ((short)(0));
             this.progBarIRFrontRight.CylonInterval = ((short)(1));
             this.progBarIRFrontRight.CylonMove = 5F;
-            cFocalPoints14.CenterPoint = ((System.Drawing.PointF)(resources.GetObject("cFocalPoints14.CenterPoint")));
-            cFocalPoints14.FocusScales = ((System.Drawing.PointF)(resources.GetObject("cFocalPoints14.FocusScales")));
-            this.progBarIRFrontRight.FocalPoints = cFocalPoints14;
-            this.progBarIRFrontRight.Location = new System.Drawing.Point(260, 319);
+            cFocalPoints6.CenterPoint = ((System.Drawing.PointF)(resources.GetObject("cFocalPoints6.CenterPoint")));
+            cFocalPoints6.FocusScales = ((System.Drawing.PointF)(resources.GetObject("cFocalPoints6.FocusScales")));
+            this.progBarIRFrontRight.FocalPoints = cFocalPoints6;
             this.progBarIRFrontRight.Max = 255;
             this.progBarIRFrontRight.Name = "progBarIRFrontRight";
             this.progBarIRFrontRight.Orientation = ProgBar.ProgBarPlus.eOrientation.Vertical;
             this.progBarIRFrontRight.Shape = ProgBar.ProgBarPlus.eShape.TriangleDown;
             this.progBarIRFrontRight.ShapeTextFont = new System.Drawing.Font("Arial Black", 30F);
-            this.progBarIRFrontRight.Size = new System.Drawing.Size(151, 67);
-            this.progBarIRFrontRight.TabIndex = 8;
             this.progBarIRFrontRight.Value = 50;
             // 
             // progBarIRBackRight
             // 
-            cBlendItems15.iColor = new System.Drawing.Color[] {
+            resources.ApplyResources(this.progBarIRBackRight, "progBarIRBackRight");
+            cBlendItems7.iColor = new System.Drawing.Color[] {
         System.Drawing.Color.Navy,
         System.Drawing.Color.Blue};
-            cBlendItems15.iPoint = new float[] {
+            cBlendItems7.iPoint = new float[] {
         0F,
         1F};
-            this.progBarIRBackRight.BarColorBlend = cBlendItems15;
+            this.progBarIRBackRight.BarColorBlend = cBlendItems7;
             this.progBarIRBackRight.BarColorSolid = System.Drawing.Color.Green;
             this.progBarIRBackRight.BarColorSolidB = System.Drawing.Color.White;
             this.progBarIRBackRight.BarLengthValue = ((short)(25));
@@ -307,28 +274,26 @@
             this.progBarIRBackRight.CylonInterval = ((short)(1));
             this.progBarIRBackRight.CylonMove = 5F;
             this.progBarIRBackRight.FillDirection = ProgBar.ProgBarPlus.eFillDirection.Down_Left;
-            cFocalPoints15.CenterPoint = ((System.Drawing.PointF)(resources.GetObject("cFocalPoints15.CenterPoint")));
-            cFocalPoints15.FocusScales = ((System.Drawing.PointF)(resources.GetObject("cFocalPoints15.FocusScales")));
-            this.progBarIRBackRight.FocalPoints = cFocalPoints15;
-            this.progBarIRBackRight.Location = new System.Drawing.Point(260, 474);
+            cFocalPoints7.CenterPoint = ((System.Drawing.PointF)(resources.GetObject("cFocalPoints7.CenterPoint")));
+            cFocalPoints7.FocusScales = ((System.Drawing.PointF)(resources.GetObject("cFocalPoints7.FocusScales")));
+            this.progBarIRBackRight.FocalPoints = cFocalPoints7;
             this.progBarIRBackRight.Max = 255;
             this.progBarIRBackRight.Name = "progBarIRBackRight";
             this.progBarIRBackRight.Orientation = ProgBar.ProgBarPlus.eOrientation.Vertical;
             this.progBarIRBackRight.Shape = ProgBar.ProgBarPlus.eShape.TriangleUp;
             this.progBarIRBackRight.ShapeTextFont = new System.Drawing.Font("Arial Black", 30F);
-            this.progBarIRBackRight.Size = new System.Drawing.Size(151, 67);
-            this.progBarIRBackRight.TabIndex = 7;
             this.progBarIRBackRight.Value = 50;
             // 
             // progBarIRBackLeft
             // 
-            cBlendItems16.iColor = new System.Drawing.Color[] {
+            resources.ApplyResources(this.progBarIRBackLeft, "progBarIRBackLeft");
+            cBlendItems8.iColor = new System.Drawing.Color[] {
         System.Drawing.Color.Navy,
         System.Drawing.Color.Blue};
-            cBlendItems16.iPoint = new float[] {
+            cBlendItems8.iPoint = new float[] {
         0F,
         1F};
-            this.progBarIRBackLeft.BarColorBlend = cBlendItems16;
+            this.progBarIRBackLeft.BarColorBlend = cBlendItems8;
             this.progBarIRBackLeft.BarColorSolid = System.Drawing.Color.Green;
             this.progBarIRBackLeft.BarColorSolidB = System.Drawing.Color.White;
             this.progBarIRBackLeft.BarLengthValue = ((short)(25));
@@ -345,124 +310,87 @@
             this.progBarIRBackLeft.CylonInterval = ((short)(1));
             this.progBarIRBackLeft.CylonMove = 5F;
             this.progBarIRBackLeft.FillDirection = ProgBar.ProgBarPlus.eFillDirection.Down_Left;
-            cFocalPoints16.CenterPoint = ((System.Drawing.PointF)(resources.GetObject("cFocalPoints16.CenterPoint")));
-            cFocalPoints16.FocusScales = ((System.Drawing.PointF)(resources.GetObject("cFocalPoints16.FocusScales")));
-            this.progBarIRBackLeft.FocalPoints = cFocalPoints16;
-            this.progBarIRBackLeft.Location = new System.Drawing.Point(61, 474);
+            cFocalPoints8.CenterPoint = ((System.Drawing.PointF)(resources.GetObject("cFocalPoints8.CenterPoint")));
+            cFocalPoints8.FocusScales = ((System.Drawing.PointF)(resources.GetObject("cFocalPoints8.FocusScales")));
+            this.progBarIRBackLeft.FocalPoints = cFocalPoints8;
             this.progBarIRBackLeft.Max = 255;
             this.progBarIRBackLeft.Name = "progBarIRBackLeft";
             this.progBarIRBackLeft.Orientation = ProgBar.ProgBarPlus.eOrientation.Vertical;
             this.progBarIRBackLeft.Shape = ProgBar.ProgBarPlus.eShape.TriangleUp;
             this.progBarIRBackLeft.ShapeTextFont = new System.Drawing.Font("Arial Black", 30F);
-            this.progBarIRBackLeft.Size = new System.Drawing.Size(151, 67);
-            this.progBarIRBackLeft.TabIndex = 6;
             this.progBarIRBackLeft.Value = 50;
             // 
             // progressBarBatteryLevel
             // 
-            this.progressBarBatteryLevel.Location = new System.Drawing.Point(321, 553);
+            resources.ApplyResources(this.progressBarBatteryLevel, "progressBarBatteryLevel");
             this.progressBarBatteryLevel.Maximum = 255;
             this.progressBarBatteryLevel.Name = "progressBarBatteryLevel";
-            this.progressBarBatteryLevel.Size = new System.Drawing.Size(110, 22);
-            this.progressBarBatteryLevel.TabIndex = 12;
             // 
             // BatteryValue
             // 
-            this.BatteryValue.AutoSize = true;
-            this.BatteryValue.Location = new System.Drawing.Point(285, 562);
+            resources.ApplyResources(this.BatteryValue, "BatteryValue");
             this.BatteryValue.Name = "BatteryValue";
-            this.BatteryValue.Size = new System.Drawing.Size(21, 13);
-            this.BatteryValue.TabIndex = 13;
-            this.BatteryValue.Text = "0%";
             // 
             // groupBox1
             // 
+            resources.ApplyResources(this.groupBox1, "groupBox1");
             this.groupBox1.Controls.Add(this.LeftRearward);
             this.groupBox1.Controls.Add(this.LeftForward);
-            this.groupBox1.Location = new System.Drawing.Point(37, 159);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(88, 75);
-            this.groupBox1.TabIndex = 14;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Sens";
             // 
             // LeftRearward
             // 
-            this.LeftRearward.AutoSize = true;
-            this.LeftRearward.Location = new System.Drawing.Point(7, 44);
+            resources.ApplyResources(this.LeftRearward, "LeftRearward");
             this.LeftRearward.Name = "LeftRearward";
-            this.LeftRearward.Size = new System.Drawing.Size(55, 17);
-            this.LeftRearward.TabIndex = 1;
-            this.LeftRearward.Text = "Arrière";
             this.LeftRearward.UseVisualStyleBackColor = true;
             // 
             // LeftForward
             // 
-            this.LeftForward.AutoSize = true;
+            resources.ApplyResources(this.LeftForward, "LeftForward");
             this.LeftForward.Checked = true;
-            this.LeftForward.Location = new System.Drawing.Point(7, 20);
             this.LeftForward.Name = "LeftForward";
-            this.LeftForward.Size = new System.Drawing.Size(53, 17);
-            this.LeftForward.TabIndex = 0;
             this.LeftForward.TabStop = true;
-            this.LeftForward.Text = "Avant";
             this.LeftForward.UseVisualStyleBackColor = true;
             // 
             // groupBox2
             // 
+            resources.ApplyResources(this.groupBox2, "groupBox2");
             this.groupBox2.Controls.Add(this.RightRearward);
             this.groupBox2.Controls.Add(this.RightForward);
-            this.groupBox2.Location = new System.Drawing.Point(279, 159);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(88, 75);
-            this.groupBox2.TabIndex = 15;
             this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "Sens";
             // 
             // RightRearward
             // 
-            this.RightRearward.AutoSize = true;
-            this.RightRearward.Location = new System.Drawing.Point(6, 44);
+            resources.ApplyResources(this.RightRearward, "RightRearward");
             this.RightRearward.Name = "RightRearward";
-            this.RightRearward.Size = new System.Drawing.Size(55, 17);
-            this.RightRearward.TabIndex = 1;
-            this.RightRearward.Text = "Arrière";
             this.RightRearward.UseVisualStyleBackColor = true;
             // 
             // RightForward
             // 
-            this.RightForward.AutoSize = true;
+            resources.ApplyResources(this.RightForward, "RightForward");
             this.RightForward.Checked = true;
-            this.RightForward.Location = new System.Drawing.Point(6, 21);
             this.RightForward.Name = "RightForward";
-            this.RightForward.Size = new System.Drawing.Size(53, 17);
-            this.RightForward.TabIndex = 0;
             this.RightForward.TabStop = true;
-            this.RightForward.Text = "Avant";
             this.RightForward.UseVisualStyleBackColor = true;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(207, 410);
+            resources.ApplyResources(this.button1, "button1");
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 16;
-            this.button1.Text = "button1";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(49, 278);
+            resources.ApplyResources(this.textBox1, "textBox1");
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(362, 20);
-            this.textBox1.TabIndex = 17;
             // 
             // GUICommande
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(455, 575);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.groupBox2);
@@ -483,7 +411,6 @@
             this.Controls.Add(this.label1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "GUICommande";
-            this.Text = "GuiCommande";
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownLeft)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownRight)).EndInit();
             this.statusStrip1.ResumeLayout(false);

@@ -55,3 +55,6 @@ D:\Programmation\C#\WifiBot\WifiBotClient\WifiBotClient\GUIWifiBotCommande\obj\D
 D:\Programmation\C#\WifiBot\WifiBotClient\WifiBotClient\GUIWifiBotCommande\obj\Debug\GUIWifiBotCommande.GUICommande.resources
 D:\Programmation\C#\WifiBot\WifiBotClient\WifiBotClient\GUIWifiBotCommande\obj\Debug\GUIWifiBotCommande.Properties.Resources.resources
 D:\Programmation\C#\WifiBot\WifiBotClient\WifiBotClient\GUIWifiBotCommande\obj\Debug\GUIWifiBotCommande.csproj.GenerateResource.Cache
+D:\Programmation\C#\WifiBot\WifiBotClient\WifiBotClient\GUIWifiBotCommande\obj\Debug\GUIWifiBotCommande.GUICommande.fr.resources
+D:\Programmation\C#\WifiBot\WifiBotClient\WifiBotClient\GUIWifiBotCommande\bin\Debug\fr\GUIWifiBotCommande.resources.dll
+D:\Programmation\C#\WifiBot\WifiBotClient\WifiBotClient\GUIWifiBotCommande\obj\Debug\fr\GUIWifiBotCommande.resources.dll

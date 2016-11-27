@@ -68,6 +68,9 @@
     <EmbeddedResource Include="Connection.resx">
       <DependentUpon>Connection.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="GUICommande.fr.resx">
+      <DependentUpon>GUICommande.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="GUICommande.resx">
       <DependentUpon>GUICommande.cs</DependentUpon>
     </EmbeddedResource>
@@ -121,7 +124,7 @@
     </COMReference>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\top.png" />
+    <Content Include="Resources\robot-icone-6164.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

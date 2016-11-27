@@ -59,15 +59,5 @@ namespace GUIWifiBotCommande.Properties {
                 resourceCulture = value;
             }
         }
-        
-        /// <summary>
-        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap top {
-            get {
-                object obj = ResourceManager.GetObject("top", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
     }
 }
